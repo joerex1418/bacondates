@@ -1,6 +1,11 @@
 # dtfuncs
 
-## Usage
+## Overview
+This is supposed to be an extremely small conveniece library for dealing with date objects in Python
+
+There are only a couple functions so far, but more will be added in the future.
+
+### Usage
 
 ```python
 >>> import bacondates as bd
