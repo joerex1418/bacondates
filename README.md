@@ -1,4 +1,4 @@
-# dtfuncs
+# BaconDates
 
 ## Overview
 This is supposed to be an extremely small conveniece library for dealing with date objects in Python. No third-party dependencies required as the entire point is to make it as lightweight as possible.
